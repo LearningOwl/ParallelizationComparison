@@ -1,4 +1,4 @@
-# ParallelizationComparison
+# Analysis of Parallel Implementation of algorithm in Python and Golang
 
 
 This is an implementation of a class project that I had to for my masters Advanced Parallel Processing class.
